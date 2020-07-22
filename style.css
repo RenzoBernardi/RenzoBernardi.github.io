@@ -469,12 +469,15 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
   }
   
   .video-container {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 2000px;
-    height: 2000px;
-    opacity: 0.4;
+   
+    width: 100%;
+    height: calc(100vh-7rem);
+    background: linear-gradient(rgba(241, 242, 245, 0.5), rgba(236, 240, 243, 0.842)
+    ), url(images/videomonteac.mp4)center
+    no-repeat;
+    background-size: cover;
+    position: relative;
+    perspective: 100rem;
   
   }
   
