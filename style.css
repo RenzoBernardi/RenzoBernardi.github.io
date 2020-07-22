@@ -470,8 +470,8 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
   
   .video-container {
     position: absolute;
-    top: 100;
-    left: 100;
+    top: 0;
+    left: 0;
     width: 2000px;
     height: 2000px;
     opacity: 0.4;
