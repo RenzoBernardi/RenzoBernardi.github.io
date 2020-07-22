@@ -476,7 +476,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     ), url(images/videomonteac.mp4)center
     no-repeat;
     background-size: cover;
-    position: relative;
+    position: center;
     perspective: 100rem;
   
   }
