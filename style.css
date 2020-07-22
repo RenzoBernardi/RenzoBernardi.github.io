@@ -470,8 +470,8 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
   
   .video-container {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 100;
+    left: 100;
     width: 100%;
     height: 100%;
     opacity: 0.4;
@@ -480,7 +480,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
   .bg-video {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: none; 
   }
   
   .stories-wrapper {
@@ -503,7 +503,13 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     display: flex;
   }
   
-  
+  .story-image {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 5rem;
+  }
   
   .story-text {
     letter-spacing: 0.1rem;
