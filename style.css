@@ -431,7 +431,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 /*End of popular tours*/
 /* Stories */
 .stories {
-    padding: 10rem 0;
+    padding: 5rem 0;
     position: relative;
   }
   
