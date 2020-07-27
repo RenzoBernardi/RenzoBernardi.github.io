@@ -460,7 +460,6 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     padding: 0rem;
     margin: 5rem;
     width: 70%;
-    
     transform: skewX(20deg);
   }
   
@@ -495,7 +494,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 /*Contact*/
 
 .contact {
-    padding: 10rem 0 20rem 0;
+    padding: 15rem 0 20rem 0;
     text-align: center;
     background: url(images/contact-us-bg.png) center no-repeat;
     background-size: cover; 
