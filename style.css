@@ -457,7 +457,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
   
   .story-bg {
     
-    padding: 5rem;
+    padding: 0rem;
     margin: 5rem;
     width: 70%;
     
