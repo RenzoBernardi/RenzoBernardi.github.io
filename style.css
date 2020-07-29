@@ -499,6 +499,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     background: url(images/contact-us-bg.png) center no-repeat;
     background-size: cover; 
     animation: contact-bg 35s infinite;
+    width: 100%;
 }
 
 .contact-heading {
