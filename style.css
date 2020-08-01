@@ -459,11 +459,11 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
   }
   
   .story-bg {
-    background-color: rgba(238, 238, 238, 0.85);
+   
     padding: 5rem;
     margin: 5rem;
     width: 70%;
-    box-shadow: 0 2rem 5rem rgba(51, 51, 51, 0.4);
+  
     transform: skewX(20deg);
   }
   
