@@ -449,6 +449,11 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     text-shadow: 0.1rem 2rem #000;
     margin-bottom: 8rem;
 }
+
+.iframe {
+    position: center;
+    width: fit-content;
+}
 /* End of Video */
 
 /*Contact*/
