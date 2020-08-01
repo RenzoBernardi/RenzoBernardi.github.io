@@ -461,7 +461,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 .contact {
     padding: 15rem 0 20rem 0;
     text-align: center;
-    background: url(images/fontanavidi.jpg) center no-repeat;
+    background: url(images/fontanavidi-bg.jpg) center no-repeat;
     background-size: cover; 
     animation: contact-bg 35s infinite;
     width: 100%;
