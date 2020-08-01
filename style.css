@@ -509,7 +509,6 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     text-align: center;
     background: src= "https://www.youtube.com/embed/_3tI4e9KuH4" center no-repeat;
     background-size: cover; 
-    animation: contact-bg 35s infinite;
     width: 100%;
 }
 
