@@ -438,6 +438,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     background: src= "https://www.youtube.com/embed/_3tI4e9KuH4" center no-repeat;
     background-size: cover; 
     width: 100%;
+    background-color: var(--primary-color) ;
 }
 
 .video-heading {
