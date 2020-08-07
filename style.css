@@ -585,7 +585,8 @@ border: 0.1rem solid #ccc;
 .footer {
 
     background-color: var(--grey-color);
-    padding: 4rem 0 6 0;
+    padding: 4rem 0 10 0;
+
 }
 
 .footer-list {
