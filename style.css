@@ -514,7 +514,8 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 .footer {
 
     background-color: var(--grey-color);
-    padding: 4rem 0 10 0;
+    bottom: 0;
+    
 
 }
 
