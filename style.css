@@ -460,7 +460,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 /* End of Video */
 
 /*Contact*/
-.maindiv {
+.contact {
     width: 70%;
     height: 600px;
     position: absolute;
