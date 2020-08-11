@@ -474,9 +474,9 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 }
 
 @keyframes slider{
-    0%{background-image: url("images/3D.jpg"); background-size: 100% 100%;}
-    35%{background-image: url("images/Cucina.1.jpg"); background-size: 100% 100%;}
-    75%{background-image: url("images/ESTERNO\ 5.jpg"); background-size: 100% 100%;}
+    0%{background-image: url("images/3D.jpg"); background-size: 50% 50%;}
+    35%{background-image: url("images/Cucina.1.jpg"); background-size: 50% 50%;}
+    75%{background-image: url("images/ESTERNO\ 5.jpg"); background-size: 50% 50%;}
 }
 /*End of Contact*/
 
