@@ -461,13 +461,6 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 
 /*Contact*/
 
-.contact {
-    padding: 10rem 0 2rem 0;
-    text-align: center;
-    background-size: cover; 
-    width: 100%;
-    background-color: lightcyan ;
-
 .maindiv {
     width: 70%;
     height: 600px;
