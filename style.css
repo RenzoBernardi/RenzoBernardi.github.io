@@ -462,7 +462,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 /*Contact*/
 .maindiv {
     width: 70%;
-    height: 400px;
+    height: 600px;
     position: absolute;
     left: 50%;
     top: 50%;
