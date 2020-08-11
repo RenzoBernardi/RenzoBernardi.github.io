@@ -464,10 +464,17 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 .contact {
         padding: 15rem 0 20rem 0;
         text-align: center;
-        background: url(images/contact-us-bg.jpg) center no-repeat;
-        background-size: cover; 
-        animation: contact-bg 35s infinite;
-        width: 100%;
+        background-image: url("images/3D.jpg");
+        background-size: 50% 50%; 
+        animation: slider 9s infinite linear;
+        width: 70%;
+        height: 600px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        box-shadow: 1px 2px 10px 5px white;
+        animation: slider 9s infinite linear;
     }
     
     .contact-heading {
@@ -560,20 +567,6 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
         max-width: 100%;
     }
        
-}
-.maindiv {
-    width: 70%;
-    height: 600px;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    background-image: url("images/3D.jpg");
-    background-size: 50% 50%;
-    box-shadow: 1px 2px 10px 5px white;
-    animation: slider 9s infinite linear;
-}
-
 @keyframes slider{
     0%{background-image: url("images/3D.jpg"); background-size: 50% 50%;}
     35%{background-image: url("images/Cucina.1.jpg"); background-size: 50% 50%;}
