@@ -461,19 +461,13 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
 
 /*Contact*/
 
-.contact {
+ .contact {
     padding: 15rem 0 20rem 0;
     text-align: center;
-    background-image: url("images/3.DOPO.jpg");
-    background-size: 50% 50%;
-    width: 70%;
-    height: 600px;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    box-shadow: 1px 2px 10px 5px white;   
-    }
+    background: url(images/contact-us-bg.png) center no-repeat;
+    background-size: cover;
+    animation: contact-bg 35s infinite;
+  }
     
     .contact-heading {
         font-size: 7rem;
