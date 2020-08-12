@@ -469,16 +469,6 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     background-size: cover;
     animation: contact-bg 35s infinite;
   }
-    
-    .contact-heading {
-        font-size: 7rem;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 0.5rem;
-        color: var(--white-color);
-        text-shadow: 0.1rem 2rem #000;
-        margin-bottom: 8rem;
-    }
    
 .contact-heading {
     width: 70%;
