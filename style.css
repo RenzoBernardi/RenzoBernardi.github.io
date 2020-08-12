@@ -476,7 +476,6 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     position: absolute;
     left: 50%;
     top: 220%;
-    bottom: 0;
     transform: translate(-50%, -50%);
     background-image: url("images/3.DOPO.jpg");
     background-size: 100% 100%;
