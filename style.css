@@ -480,7 +480,7 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
         margin-bottom: 8rem;
     }
    
-.contact {
+.contact-heading {
     width: 70%;
     height: 400px;
     position: absolute;
@@ -493,8 +493,14 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
     animation: slider 9s infinite linear; 
 }
 
+@keyframes slider {
+    0%{background-image: url(images/Cucina.1.jpg); background-size: 100% 100%;}
 
+35%{background-image: url(images/air-balloon.png); background-size: 100% 100%;}
 
+70%{background-image: url(images/bg-1.jpg); background-size: 100% 100%;}
+
+}
 
 /*End of Contact*/
 
