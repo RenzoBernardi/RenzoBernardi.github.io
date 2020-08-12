@@ -479,48 +479,22 @@ transition: opacity 0.4s, transform 0.4s, box-shadow 0.4s;
         text-shadow: 0.1rem 2rem #000;
         margin-bottom: 8rem;
     }
-    
-    .contact-form {
    
-    }
-    
-    .input-group {
-    
-    }
-    
-    .input-groups {
-    
-    }
-    
-    .input-groups .input-group {
-    
-    }
-    
-    .input-group input, 
-    .input-group textarea {
-    }
-    
-    .input-group input:focus,
-    .input-group textarea:focus {
-     
-    }
-    
-    .input-group label {
-        
-      }
-      
-      .form-btn {
-        
-      }
-      
-      .form-btn:hover {
-       
-      }
-      
-      .input-group textarea {
-        
-      }
-       
+.contact {
+    width: 70%;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url("images/3.DOPO.jpg");
+    background-size: 100% 100%;
+    box-shadow: 1px 2px 10px white;
+    animation: slider 9s infinite linear; 
+}
+
+
+
 
 /*End of Contact*/
 
